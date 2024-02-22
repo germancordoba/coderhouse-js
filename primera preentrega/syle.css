@@ -1,0 +1,12 @@
+
+body{
+    background-color: beige;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: coral;
+    padding-top: 15rem;
+}
